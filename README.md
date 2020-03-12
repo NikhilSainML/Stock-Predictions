@@ -14,10 +14,13 @@ And News Sentiment Analysis for Checking the News Sentiments
 Problem I faced that Tweepy Don't Gives us tweets more than 200 and only 7 days old tweets 
 and for NewsApi i can fetch only 100 news headlines 
 So , i just implement only 1 Week Sentiment data
+I used INFY Stock prices:
+From 25/2/2020 to 3/3/2020,The Sentiment of Tweets and News for INFY didnt have any effects on the stock prices because the Market was bearish because of Corona Virus so, Fetched Sensex Tweets and News Sentiment and can see a Relationship But for 1 week data it was difficult to come across a relationship. 
 
 Im just a Beginner in Machine Learning 
 
-Im working on fetching 1 month sentiment so i can get some more relation and can implement some Functions to Improve Accuracy
+Future works:
+By fetching 1 month sentiment can get some more relationship and can implement some Functions to Improve Accuracy
 
 Thank you,
 
