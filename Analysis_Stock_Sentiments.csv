@@ -1,0 +1,11 @@
+Date,Predicted Values,Actual Values,News_Sentiment,Twitter_Sentiment,Sensex_Sentiment,SensexTweet_Senti
+2020-02-25,757.05,798.4,"('Negative', 2)","('Nuetral', 46)","('Positive', 5)",
+2020-02-26,757.05,782.75,"('Positive', 2)","('Nuetral', 109)","('Negative', 3)","('Nuetral', 68)"
+2020-02-27,757.05,777.85,"('Positive', 6)","('Nuetral', 155)","('Positive', 6)","('Nuetral', 53)"
+2020-02-28,757.05,731.7,"('Positive', 5)","('Nuetral', 179)","('Positive', 11)","('Nuetral', 70)"
+2020-02-29,,,"('Positive', 1)","('Positive', 242)","('Negative', 1)","('Nuetral', 46)"
+2020-03-01,,,"('Positive', 2)","('Positive', 313)","('Negative', 1)","('Nuetral', 58)"
+2020-03-02,757.05,741.05,"('Positive', 4)","('Positive', 363)","('Positive', 5)","('Positive', 48)"
+2020-03-03,757.05,747.0,,,,
+2020-03-04,757.05,758.75,,,,
+2020-03-05,757.05,754.6,,,,
